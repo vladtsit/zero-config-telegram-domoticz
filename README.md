@@ -1,6 +1,6 @@
 # zero-config-telegram-domoticz
 
-This is first try to make zero-config telegram bot based on information which is already exists in DOmoticz
+This is first try to make zero-config telegram bot based on information which is already exists in Domoticz
 Requirements:
 - Node-Red and Domoticz installed on same PC/RRi. Google for instrictions.
 - Additional nodes: node-red-contrib-moment, node-red-contrib-telegrambot
